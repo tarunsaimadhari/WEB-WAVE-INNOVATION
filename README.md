@@ -50,49 +50,65 @@ These features assist you in motivating your learners when they perform well and
 
 Screenshots:
 Storage Account
-https://private-user-images.githubusercontent.com/169901285/337339357-b96e710b-9b8a-4a19-95a8-973fa8ac8357.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYwNDg1NDIsIm5iZiI6MTcyNjA0ODI0MiwicGF0aCI6Ii8xNjk5MDEyODUvMzM3MzM5MzU3LWI5NmU3MTBiLTliOGEtNGExOS05NWE4LTk3M2ZhOGFjODM1Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkxMVQwOTUwNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZDYzYmNmZWJhOTllMDZhNTY3NWZiM2Q4OWExZDBkMDhiOWEzNzRhMmE5OWY4NWQ4YzU2YTU3OWY0OGEzMjBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.C9Zth4cyR7NoVpjRh-X_XAjf3DWWYYJH0QbPbE0JoSo
+![image](https://github.com/user-attachments/assets/63c281e2-ba28-49fb-8872-03bc6508bd4f)
+
 
 Static website
-Screenshot (51)
+![image](https://github.com/user-attachments/assets/3a105a44-d969-4242-855a-183089e625f6)
+
 
 Container
-Screenshot (52)
+![image](https://github.com/user-attachments/assets/6ddd7ebe-c57d-439f-8c81-063d62882bd0)
+
 
 Backup vault
-Screenshot (53)
+![image](https://github.com/user-attachments/assets/ce8c2386-aa78-4c3b-9c29-325fd3eed394)
+
 
 Role assignment
-Screenshot (57)
+![image](https://github.com/user-attachments/assets/4b836c6b-e68f-44f4-8067-e6873fad1aee)
+
 
 Backup policy
-Screenshot (55)
+![image](https://github.com/user-attachments/assets/a109ef8c-5927-4efd-8e07-26a0621d9fd7)
+
 
 Azure Bot
-Screenshot (56)
+![image](https://github.com/user-attachments/assets/89463770-86e8-4e71-873f-4e4175ba6354)
+
 
 Test in web chat
-Screenshot (58)
+![image](https://github.com/user-attachments/assets/3103dcdc-55f8-4675-a388-9f145f07ba69)
+
 
 Resource visualizer
-Screenshot (54)
+![image](https://github.com/user-attachments/assets/5a3ae31f-ba23-439a-9c9b-76bc9ca171a6)
+
 
 Description
 Here I am attaching the final working website's screenshot for the reference. Working Live Project Display:
 
 Home page
-Screenshot (59)
+![image](https://github.com/user-attachments/assets/d3fafe0a-a485-485d-be36-2f5ed894d790)
+
 
 About Us
-Screenshot (61)
+![image](https://github.com/user-attachments/assets/28876db5-b7d8-435e-8c52-b88b9f9b5ca0)
+
 
 Courses
-Screenshot (62) Screenshot (63) Screenshot (64)
+![image](https://github.com/user-attachments/assets/2ff2030e-2d87-415e-af4c-476faef80c10)
+![image](https://github.com/user-attachments/assets/ec4655e7-81bb-4bbb-a161-66166e694aa5)
+![image](https://github.com/user-attachments/assets/d7c83e6f-5356-42f8-9c29-7c7749af6d9f)
+
 
 Process
-Screenshot (65)
+![image](https://github.com/user-attachments/assets/51b7e80d-2cc1-47fa-9c55-62573f4caeaf)
+
 
 Get In Touch
-Screenshot (66)
+![image](https://github.com/user-attachments/assets/eddc4ca3-2632-4339-ba70-4bff20c7739e)
+
 
 Conclusion:
 Continued Learning: Emphasize the importance of continued learning in the field of web design and development. Suggest resources for further exploration, such as online tutorials,books, or additional courses.Finally, conclude the conclusion by congratulating students oncompleting the course and expressing confidence in their ability to succeed in their futureendeavors in web design and development By covering these points in the conclusion of a web design and web development course,students can gain a comprehensive understanding of their achievements and the potential paths forward in their careers.
